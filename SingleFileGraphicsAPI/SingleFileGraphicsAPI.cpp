@@ -1,4 +1,3 @@
-#include "SingleFileGraphicsAPI.h"
 #include "SingleFileDX11.h"
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
